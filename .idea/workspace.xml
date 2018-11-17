@@ -113,8 +113,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio_project_pycharm/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="131" selection-start-line="131" selection-end-line="131" selection-end-column="10" />
+            <state relative-caret-position="151">
+              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
             </state>
           </provider>
         </entry>
@@ -122,8 +122,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -262,6 +262,11 @@
               <item name="portfolio_project_pycharm" type="b2602c69:ProjectViewProjectNode" />
               <item name="portfolio_project_pycharm" type="462c0819:PsiDirectoryNode" />
               <item name="portfolio_project_pycharm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="portfolio_project_pycharm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="portfolio_project_pycharm" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -555,15 +560,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio_project_pycharm/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="131" selection-start-line="131" selection-end-line="131" selection-end-column="10" />
+        <state relative-caret-position="151">
+          <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="7" />
         </state>
       </provider>
     </entry>
